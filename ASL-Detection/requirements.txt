@@ -1,1 +1,8 @@
+numpy
+pandas
+pygame
 gtts
+matplotlib.pyplot
+sklearn
+keras
+
